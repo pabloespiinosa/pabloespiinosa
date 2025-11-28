@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hola, soy Pablo Espinosa López. Soy de Fuensanta, Jaén. <br>Tengo un grado medio de informática, el de Sistemas Microinformáticos y Redes, y ahora estoy en el grado superior de Desarrollo de Aplicaciones Web.</p>
+<p align="left">Hola, soy Pablo Espinosa López. Soy de Fuensanta, Jaén. <br>Tengo un grado medio de informática, el de Sistemas Microinformáticos y Redes en el IES Miguel Sanchez López. <br>Ahora estoy en el grado superior de Desarrollo de Aplicaciones Web en el IES Fernando III.</p>
 
 ###
 
